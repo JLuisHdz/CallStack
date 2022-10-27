@@ -1,0 +1,8 @@
+CallStack:
+un ejemplo sencillo de desirlo es como una pila de objetos por ejemplo de libros o de platos ya 
+que su forma de comportarse funciona de forma similar, el primero que entra va a ser el ultimo
+que va a salir de la ejecución por eso cuando se quiere sacar un elemento de esa pila primero
+tienes que sacar lo que se encuentra hasta arriba. Y en javascript la forma en que funcionaria
+es que cada vez que se llame una funcion se creara un registro con la informacion y se agregara
+a esa pila y cada vez que se llame a una nueva se ira agregado un registro arriba del otro y asi 
+coincidira con la funcion que se ejecuta.
